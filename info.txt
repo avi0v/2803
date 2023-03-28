@@ -1,0 +1,13 @@
+now following command used
+-git clone ssh
+-git init
+-git status
+
+### working etc ###
+- git add 
+- git commit -m "msh"
+-git push
+
+#######now in git hub create changes now pull request######3
+
+-git pull
